@@ -1,0 +1,32 @@
+Arguments: 
+  D:\Program Files\nodejs\node.exe D:\Program Files\nodejs\node_modules\yarn\bin\yarn.js add axios
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Roaming\nvm;D:\Program Files\nodejs;D:\Program Files\Git\cmd;D:\Program Files\mosquitto;C:\Program Files\python;C:\Program Files\python\Scripts;D:\BtSoft\panel\script;D:\HBuilderX\wxdev\微信web开发者工具\dll;D:\Program Files\Go\bin;C:\Users\zyh\.cargo\bin;D:\apache-tomcat-10.0.27\bin;D:\apache-tomcat-10.0.27\lib;C:\Program Files\Java\jdk1.8.0_361\bin;C:\Program Files\Java\jdk1.8.0_36\bin;C:\Users\zyh\AppData\Local\Android\Sdk\platform-tools;C:\Users\zyh\AppData\Local\Android\Sdk\emulator;C:\Users\zyh\AppData\Local\Android\Sdk\tools;D:\Redis-x64-5.0.14.1;D:\Program Files\Go\bin;C:\Users\zyh\go\bin;C:\Users\zyh\.cargo\bin;C:\Users\zyh\AppData\Local\Microsoft\WindowsApps;C:\phpEnv\php\php-7.4\;C:\phpEnv\server\mysql\mysql-5.7\bin\;C:\phpEnv\tools\Composer\;D:\Program Files\Bandizip\;D:\Program Files\bandizip\;D:\Program Files\JetBrains\IntelliJ IDEA 2020.3.4\bin;D:\Programs\Microsoft VS Code\bin;D:\Roaming\nvm;D:\Program Files\nodejs;D:\phpEnv\php\php-7.4\;D:\phpEnv\server\mysql\mysql-5.7\bin\;D:\phpEnv\tools\Composer\;D:\Users\zyh\AppData\Local\Programs\Fiddler;%WebStorm%;%USERPROFILE%\go\bin;D:\Program Files\Go\bin;C:\Program Files (x86)\Tencent\QQGameTempest\Hall.57915\
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.14.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 104.16.26.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+
+npm manifest: 
+  {
+    "name": "auto_juejin",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
