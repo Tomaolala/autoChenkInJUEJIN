@@ -21,5 +21,7 @@ export default {
         uuid:7088553991310771719,
         spider:0,
         msToken:"uN3DFNlVTtZ8KBQDTy77v6s2KFXuDxdYRJBgpLyW0ipm6aTR_wocbH38Nt4zkCkdo6LMDzBO_LWutNAYaAownMHwsAvoo_GDpRxNo5PSTWIIftjqO7YVjmSDNnG5FQ",
-        a_bogus:"d7MYvcZxMsm1gj3ERwDz9HhmI8D0YWRigZEzuhFXVzL%2F"
+        a_bogus:"d7MYvcZxMsm1gj3ERwDz9HhmI8D0YWRigZEzuhFXVzL%2F",
+        _signature:"_02B4Z6wo00901FaxUxwAAIDDAzPYgcy2xuhWtVeAAHGc1xVa0QHrNeXgQdjt18h2bUsuZX2lstPfty9vzBtMspPGqs9wVZv1crKH7FLqaN9PbIeJSORfOGbXOl9OdLRWxwzWvuK5Qs27y262dd",
+        lottery_history_id:"7221724843387912192"
 }

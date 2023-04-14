@@ -56,7 +56,7 @@ const sticky_luck =async ()=>{
             uuid:config.uuid,
             spider:config.spider,
             msToken:config.msToken,
-            a_bogus:config.a_bogus
+            lottery_history_id:config.lottery_history_id
         })
         return getStatus.data
     }catch(err){
@@ -70,7 +70,8 @@ const draw =async ()=>{
             uuid:config.uuid,
             spider:config.spider,
             msToken:config.msToken,
-            a_bogus:config.a_bogus
+            a_bogus:config.a_bogus,
+            _signature:config._signature
         })
         return getStatus.data
     }catch(err){
